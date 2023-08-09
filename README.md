@@ -3,9 +3,8 @@
 
 made with swiperJS
 
-
-
-
+sdfs
+sf
 ## FAQ
 
 #### Only for Big screen . But have to manually make it responsive .
