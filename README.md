@@ -3,8 +3,7 @@
 
 made with swiperJS
 
-sdfs
-sf
+
 ## FAQ
 
 #### Only for Big screen . But have to manually make it responsive .
@@ -14,7 +13,7 @@ sf
 Install my-project with npm
 
 ```bash
-  git clone https://github.com/kolinabir/Carusel-with-changing-screen 
+  git clone https://github.com/sumonchonrodas/Carusel-with-changing-screen.git
   
   npm i
 ```
